@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/archive/category/html&css", {data:[{articles:[]}],fetch:{},mutations:[]});

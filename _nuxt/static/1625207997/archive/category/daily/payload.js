@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/archive/category/daily", {data:[{articles:[]}],fetch:{},mutations:[]});

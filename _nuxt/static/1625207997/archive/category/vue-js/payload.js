@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/archive/category/vue-js", {data:[{articles:[]}],fetch:{},mutations:[]});
